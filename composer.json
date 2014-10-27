@@ -1,0 +1,14 @@
+{
+    "name": "easylo/splunk-sdk",
+    "type": "library",
+    "description": "splunk sdk for PHP",
+    "keywords": ["splunk"],    
+    "license": "MIT",
+    "authors": [{"name": "Laurent RICHARD", "email": "easylo@gmail.com"}],    
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "files": ["Splunk.php"]
+    }
+}
